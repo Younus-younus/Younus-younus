@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Younus-younus&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Younus-younus&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Younus-younus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -31,7 +31,7 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+<h2 align="left">Lets Connect!</h2>
 
 ###
 
@@ -53,12 +53,18 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+
+###
+
 <p align="left">Tic Tac Toe<br>Github link -> https://github.com/Younus-younus/tictactoe<br><br>Weather Widget<br>Github link -> https://github.com/Younus-younus/weather-app<br><br>Simon says<br>Github link -> https://github.com/Younus-younus/Simon-Says-Game</p>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/821053e18f77d32e4a8b1db5bbf8eb6ffa49b7a1897bd23cb5d7cfefc60a317c/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67"  />
+  <img height="80" src="https://camo.githubusercontent.com/821053e18f77d32e4a8b1db5bbf8eb6ffa49b7a1897bd23cb5d7cfefc60a317c/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67"  />
 </div>
 
 ###
