@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I am Younus</h2>
+<h2 align="left">Hi 👋! I am Younus</h2>
 
 ###
 
