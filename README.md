@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👀 I’m open to work as a student intern or freelancer.<br>🌱 I’m a Full Stack Web Development.</p>
+<p align="left">👀 I’m open to work as a intern or freelancer.<br>🌱 I’m a Full Stack Web Developer.</p>
 
 ###
 
