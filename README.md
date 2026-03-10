@@ -5,81 +5,107 @@
   https://github.com/Younus-younus
 -->
 
-<h2 align="left">Hi 👋! I am Younus</h2>
-
-###
-
-<p align="left">👀 I’m open to work as a intern or freelancer.<br>🌱 I’m a Full Stack Web Developer.</p>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Younus-younus&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Younus-younus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header&text=Hey%20there!%20I'm%20Younus%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
 </div>
 
-###
-
-<h2 align="left">Lets Connect!</h2>
-
-###
-
-<div align="left">
-  <a href="sayeedataj37@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Open+to+Internships+%26+Freelance+Work;Always+Learning+%26+Building+Cool+Stuff!" alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Younus-younus">
+    <img src="https://komarev.com/ghpvc/?username=Younus-younus&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
+  </a>
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+- 🌱 I'm a **Full Stack Web Developer** passionate about building clean, responsive web apps
+- 👀 Open to **Internship** and **Freelance** opportunities
+- 💬 Ask me about **JavaScript, React, Node.js, or Python**
+- 📫 Reach me at **sayeedataj37@gmail.com**
+- ⚡ Fun fact: I love turning ideas into interactive experiences!
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Younus-younus&show_icons=true&theme=dracula&hide_border=false&border_radius=5&include_all_commits=true&count_private=true" height="150" alt="github stats" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=Younus-younus&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Younus-younus&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+---
+
+## 🛠️ Languages & Tools
+
+**🎨 Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+
+**⚙️ Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-CC7A00?logo=openjdk&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+
+**🔧 Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge)
+
+---
+
+## 📌 Featured Projects
+
+| 🚀 Project | 📝 Description | 🔗 Link |
+|-----------|---------------|--------|
+| 🎮 **Tic Tac Toe** | Classic two-player game built with HTML, CSS & JavaScript | [![GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github&style=flat-square)](https://github.com/Younus-younus/tictactoe) |
+| 🌤️ **Weather Widget** | Real-time weather app powered by a live Weather API | [![GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github&style=flat-square)](https://github.com/Younus-younus/weather-app) |
+| 🎵 **Simon Says** | Memory-based interactive game with sounds and animations | [![GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github&style=flat-square)](https://github.com/Younus-younus/Simon-Says-Game) |
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="mailto:sayeedataj37@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/younus4webdev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Younus&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+  &nbsp;
   <a href="https://t.me/Younus_37" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Younus_37&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
 </div>
 
-###
-
-<h2 align="left">Projects</h2>
-
-###
-
-<p align="left">Tic Tac Toe<br>Github link -> https://github.com/Younus-younus/tictactoe<br><br>Weather Widget<br>Github link -> https://github.com/Younus-younus/weather-app<br><br>Simon says<br>Github link -> https://github.com/Younus-younus/Simon-Says-Game</p>
-
-###
-
-<h2 align="left">Languages and Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="25" alt="bootstrap logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="github logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="25" alt="jupyter logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
-</div>
-
-###
+---
 
 <div align="center">
-  <img height="100" src="https://camo.githubusercontent.com/821053e18f77d32e4a8b1db5bbf8eb6ffa49b7a1897bd23cb5d7cfefc60a317c/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Younus-younus&theme=dracula&hide_border=true&area=true" alt="contribution activity graph" />
 </div>
 
-###
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=80&section=footer" />
+</div>
