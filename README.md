@@ -25,8 +25,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I'm a **Full Stack Web Developer** passionate about building clean, responsive web apps
-- 👀 Open to **Internship** and **Freelance** opportunities
+- 🌱 I'm a **Full Stack Web Developer And A ML Engineer** passionate about building clean, responsive web apps and ML Models
+- 👀 Open to **Internship, Job** and **Freelance** opportunities
 - 💬 Ask me about **JavaScript, React, Node.js, or Python**
 - 📫 Reach me at **sayeedataj37@gmail.com**
 - ⚡ Fun fact: I love turning ideas into interactive experiences!
@@ -78,9 +78,9 @@
 
 | 🚀 Project | 📝 Description | 🔗 Link |
 |-----------|---------------|--------|
-| 🎮 **Tic Tac Toe** | Classic two-player game built with HTML, CSS & JavaScript | [![GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github&style=flat-square)](https://github.com/Younus-younus/tictactoe) |
+| 🎮 **Research Analysist** | A FullStack Web Application With AI Powered Reserch Anlyzer, Social Media or Researchers | [![GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github&style=flat-square)](https://github.com/Younus-younus/Research-Analisyst) |
+| 🎵  **NextHire.AI** | An AI-powered web application that analyzes resumes and predicts the best-matching job roles with confidence scores. | [![GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github&style=flat-square)](https://github.com/Younus-younus/NextHire.AI) |
 | 🌤️ **Weather Widget** | Real-time weather app powered by a live Weather API | [![GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github&style=flat-square)](https://github.com/Younus-younus/weather-app) |
-| 🎵 **Simon Says** | Memory-based interactive game with sounds and animations | [![GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github&style=flat-square)](https://github.com/Younus-younus/Simon-Says-Game) |
 
 ---
 
